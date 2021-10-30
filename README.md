@@ -1,5 +1,5 @@
 # **TrickOrTreat** 
-     Free Holloween Themed Art Assets
+     Free Halloween Themed Art Assets
 
 |   ![TrickOrTreat](/img/trickortreat-hero.jpg)  |
 |--------------------------------------------|
